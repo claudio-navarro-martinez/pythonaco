@@ -14,7 +14,7 @@ except:
 ### Configuration Area ###
 
 default_user = 'system'
-default_password = 'austral1a'
+default_password = 'chocholoco'
 default_ip = '192.168.1.73'
 default_service = 'XE'
 
